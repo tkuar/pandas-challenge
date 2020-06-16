@@ -1,0 +1,31 @@
+----------------------------------------------------------------------
+#                                                                    #
+#                   Heroes of Pymoli Data Analysis                   #
+#                                                                    #
+----------------------------------------------------------------------
+Tameka Kuar
+
+From the purchase data we have from the game Heroes of Pymoli, 
+if we look as the gender demographics of the players, we can 
+see that of the 576 players that made a purchase, players who
+identify as males make up 84.03% of the players who made a purchase
+while those who identify as female only make up 14.06% of the 
+players who made a purchase, and the players who identify as other 
+or chose not to disclose their gender only make up 1.91% of the
+players who made a purchase. From the gender demographics of 
+players based on the purchase data, we can conclude the majority
+of players in Heroes of Pymoli identify as male. This conclusion
+makes sense when looking at the purchasing analysis based on 
+gender, and it shows that males have purchased the most items
+from the game.
+
+Looking at the purchase analysis by age, we can see that of all
+780 purchases made, players in the 20-24 age group bought the most
+items. In addition to be the age group that bought the most, the
+20-24 age group that spent the most, which makes sense.
+
+If we look at the most popular items and the most profitable items,
+we see that the top 2 items in both data sets are the same. This
+observation is not that surprising since it is logical to think
+that the product that makes the most money is also the most
+popular product.
